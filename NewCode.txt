@@ -1,1 +1,4 @@
 This is test file for GitDemo
+line 1
+line 2
+line 3
